@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none!important;
+}
+
+.boton-dos {
+    color: white;
+    background-color: #6610f2;
+    border-color: #6610f2;
+    transition: all ease-in-out 300ms;
+}
+
+.boton-dos:hover {
+    background-color: #500cbd ;
+    color: white;
+}
+
+.boton-tres {
+    color: white;
+    background-color: #6f42c1;
+    border-color: #6f42c1;
+    transition: all ease-in-out 300ms;
+}
+
+.boton-tres:hover {
+    color: white;
+    background-color: #4a2c82;
+}
+
+.boton-cuatro {
+    color: white;
+    background-color: #d63384;
+    border-color: #d63384;
+    transition: all ease-in-out 300ms;
+}
+
+.boton-cuatro:hover {
+    color: white;
+    background-color: #96245d;
+
+}
+
+.boton-cinco {
+    color: white;
+    background-color: #dc3545;
+    border-color: #dc3545;
+    transition: all ease-in-out 300ms;
+}
+
+.boton-cinco:hover {
+    color: white;
+    background-color: #93232e;
+}
